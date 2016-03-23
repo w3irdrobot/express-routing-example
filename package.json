@@ -1,0 +1,27 @@
+{
+  "name": "express-routing-example",
+  "version": "1.0.0",
+  "description": "Example API built using Express routers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searsaw/express-routing-example.git"
+  },
+  "author": "Alex Sears",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/searsaw/express-routing-example/issues"
+  },
+  "homepage": "https://github.com/searsaw/express-routing-example#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "nodemon": "^1.9.1"
+  }
+}
